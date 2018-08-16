@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mlab": {
+    "host": "",
+    "port": 0,
+    "url": "mongodb://garciaisaac93:ionicplaces1@ds223542.mlab.com:23542/ionic-places-interest-backend",
+    "database": "",
+    "password": "",
+    "name": "mlab",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
